@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="afab60cd-6d1e-4df1-b56a-3c1cba81ba9e" name="MyBlog" url="http://129.204.199.86">
+        <fileTransfer host="129.204.199.86" port="22" rootFolder="/home/ubuntu/Projects/myblog" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
